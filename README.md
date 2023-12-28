@@ -1,2 +1,3 @@
-# .github
-leling-tech introduction
+## Empowering Elderly Lives Through Technology
+
+The Leling Tech App is a mobile application designed specifically for the elderly, with a focus on "aging in place." By integrating gerontology and technology, our goal is to leverage technological innovation to enhance the quality of life and self-care abilities of the elderly, while also addressing the challenges posed by an aging population and societal changes. We understand the elderly's need for technology to be "age-appropriate," which is why we have created this user-friendly application. It aims to elevate the quality of life for seniors, making it easier for them to stay connected with family, manage their health, and access support.
